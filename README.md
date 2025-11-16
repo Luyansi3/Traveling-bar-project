@@ -6,6 +6,8 @@ It combines an **Arduino Mega**, an **ESP8266 Feather Huzzah**, and a
 **Python Tkinter GUI** to provide real-time control, video streaming,
 object tracking, media recording, and automated timelapse scenarios.
 
+![Poster](docs/Poster.png)
+
 ------------------------------------------------------------------------
 
 ## 🚀 Overview
@@ -265,4 +267,4 @@ Click **Connect**.
 
 # 🙌 Contributors
 
-Lise Barbier, Basile Castel-Marie, Julie Giraud Del Sol & Lucas Sanchez.
+Lise Barbier, Basile Castel-Marie, Julie Giraud--Del Sol & Lucas Sanchez.
