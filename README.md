@@ -267,4 +267,4 @@ Click **Connect**.
 
 # 🙌 Contributors
 
-Lise Barbier, Basile Castel-Marie, Julie Giraud--Del Sol & Lucas Sanchez.
+Lise Barbier, Basile Castel-Marie, Julie Giraud--Del Sole & Lucas Sanchez.
